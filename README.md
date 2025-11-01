@@ -28,3 +28,10 @@ DeepFace analyzes each frame to determine the dominant emotion (e.g., happy, sad
 
 Display Results:
 Rectangles are drawn around faces, and the detected emotion is displayed in real-time.
+
+<img width="634" height="499" alt="Screenshot 2025-11-01 114019" src="https://github.com/user-attachments/assets/5dd7cda5-5195-48d4-a1e5-62c2f87b8c75" />
+
+
+<img width="638" height="510" alt="Screenshot 2025-11-01 114009" src="https://github.com/user-attachments/assets/3a904c0d-7ff3-4319-a032-f1966bd7d00e" />
+
+<img width="638" height="507" alt="Screenshot 2025-11-01 114001" src="https://github.com/user-attachments/assets/f7abd7d4-c575-479e-b7f1-946cf5ba8031" />
