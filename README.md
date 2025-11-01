@@ -1,9 +1,9 @@
-🎭 Real-Time Face and Emotion Detection
+# Real-Time Face and Emotion Detection
 
 This project uses OpenCV and DeepFace to perform real-time face detection and emotion recognition through your webcam.
 It detects faces in each frame using OpenCV’s Haar Cascade Classifier and then uses DeepFace to analyze the dominant emotion for each frame.
 
-🚀 Features
+# Features
 
 Real-time webcam feed processing
 
@@ -15,7 +15,7 @@ Live emotion overlay on detected faces
 
 Press q to stop the camera safely.
 
-🧠 How It Works
+# How It Works
 
 Capture Video:
 The webcam feed is accessed using cv2.VideoCapture(0).
